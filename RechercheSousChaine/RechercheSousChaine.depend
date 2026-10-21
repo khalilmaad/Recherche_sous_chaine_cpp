@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1791979700 source:c:\users\baye\khalil\programs\cpp\recherchesouschaine\main.cpp
+	"Timer.h"
+	"Recherche.h"
+	<iostream>
+	<vector>
+	<string>
+	<iomanip>
+
+1791975816 c:\users\baye\khalil\programs\cpp\recherchesouschaine\timer.h
+	<chrono>
+
+1791976754 c:\users\baye\khalil\programs\cpp\recherchesouschaine\recherche.h
+	<string>
+	<vector>
+	<cstddef>
+
+1791976769 source:c:\users\baye\khalil\programs\cpp\recherchesouschaine\recherche.cpp
+	"Recherche.h"
+	<algorithm>
+	<cctype>
+	<chrono>
+	<fstream>
+	<iomanip>
+	<set>
+	<sstream>
+
+1791975855 source:c:\users\baye\khalil\programs\cpp\recherchesouschaine\timer.cpp
+	"Timer.h"
+
